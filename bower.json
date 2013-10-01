@@ -1,0 +1,19 @@
+{
+  "name": "jquery-mobile-commonjs",
+  "version": "1.4.0-beta.1",
+  "main": "dist/jquery.mobile.js",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json",
+    "bower_components",
+    "node_modules"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
